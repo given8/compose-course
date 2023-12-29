@@ -1,0 +1,3 @@
+[submodule "compose-course-lunch-tray"]
+	path = compose-course-lunch-tray
+	url = https://github.com/given8/compose-course-lunch-tray
