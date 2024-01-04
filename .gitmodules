@@ -4,6 +4,3 @@
 [submodule "compose-course-reply-app"]
 	path = compose-course-reply-app
 	url = https://github.com/given8/compose-course-reply-app
-[submodule "basic-android-kotlin-compose-training-sports"]
-	path = basic-android-kotlin-compose-training-sports
-	url = https://github.com/google-developer-training/basic-android-kotlin-compose-training-sports.git
