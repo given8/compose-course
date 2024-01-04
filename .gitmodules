@@ -4,3 +4,6 @@
 [submodule "compose-course-reply-app"]
 	path = compose-course-reply-app
 	url = https://github.com/given8/compose-course-reply-app
+[submodule "compose-course-adaptive-layout-sports"]
+	path = compose-course-adaptive-layout-sports
+	url = https://github.com/given8/compose-course-adaptive-layout-sports.git
